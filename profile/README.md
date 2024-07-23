@@ -59,7 +59,7 @@ Join our community to stay updated on the latest news, events, and discussions:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/OnThePixel-net/.github/blob/main/LICENSE) file for more information.
 
 ---
 
