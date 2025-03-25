@@ -26,7 +26,7 @@ OnThePixel is a Minecraft server providing a unique and engaging experience for 
 ## Server Information
 
 - **IP Address**: `play.onthepixel.net`
-- **Version**: Supports Minecraft versions 1.20.2 to the latest release.
+- **Version**: Supports Minecraft versions 1.21.1 to the latest release.
 - **Website**: [onthepixel.net](https://onthepixel.net)
 - **Discord**: [Join our Discord](https://discord.onthepixel.net)
 
